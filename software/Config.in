@@ -1,0 +1,3 @@
+source "$BR2_EXTERNAL_BOYSENBOARD_PATH/package/sunxi-tools-f1c100s/Config.in.host"
+source "$BR2_EXTERNAL_BOYSENBOARD_PATH/package/sunxi-tools-f1c100s/Config.in"
+source "$BR2_EXTERNAL_BOYSENBOARD_PATH/package/boysenboard-flashdrive/Config.in"

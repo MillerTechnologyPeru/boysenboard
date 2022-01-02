@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP7335-WG-7
+D Linear Voltage Regulator IC Positive Adjustable 1 Output 300mA SOT-25
+F https://www.diodes.com/assets/Datasheets/AP7335.pdf
+$ENDCMP
+#
+$CMP F1C200s
+F https://www.thirtythreeforty.net/posts/2020/02/trying-the-allwinner-f1c200s/Allwinner_F1C200s_Datasheet_V1.1.pdf
+$ENDCMP
+#
+$CMP Micro-SD
+D 9 (8 + 1) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold
+K connector SD microsd
+F https://www.molex.com/pdm_docs/sd/1051620001_sd.pdf
+$ENDCMP
+#
+$CMP W25Q128JVSIQ
+D FLASH - NOR Memory IC 128Mb (16M x 8) SPI - Quad I/O, QPI, DTR 133 MHz 8-SOIC
+F https://www.winbond.com/resource-files/w25q128jv%20revf%2003272018%20plus.pdf
+$ENDCMP
+#
+#End Doc Library
