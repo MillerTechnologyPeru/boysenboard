@@ -56,7 +56,25 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|105826001|38011620|00000000-0000-0000-0000-000061ad5605|00000000-0000-0000-0000-000061ae60c5"
+        "copper_edge_clearance|107196000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|f8bd6470-fafd-47f2-8ed5-9449988187ce",
+        "copper_edge_clearance|112276000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|2db910a0-b943-40b4-b81f-068ba5265f56",
+        "copper_edge_clearance|117356000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|96de0051-7945-413a-9219-1ab367546962",
+        "copper_edge_clearance|118880000|88900000|00000000-0000-0000-0000-000061ad941f|79770cd5-32d7-429a-8248-0d9e6212231a",
+        "copper_edge_clearance|122436000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|3f8a5430-68a9-4732-9b89-4e00dd8ae219",
+        "copper_edge_clearance|123960000|88900000|00000000-0000-0000-0000-000061ad941f|e4e20505-1208-4100-a4aa-676f50844c06",
+        "copper_edge_clearance|127516000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|42ff012d-5eb7-42b9-bb45-415cf26799c6",
+        "copper_edge_clearance|129040000|88900000|00000000-0000-0000-0000-000061ad941f|e17e6c0e-7e5b-43f0-ad48-0a2760b45b04",
+        "copper_edge_clearance|134120000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|d38aa458-d7c4-47af-ba08-2b6be506a3fd",
+        "copper_edge_clearance|134120000|88900000|00000000-0000-0000-0000-000061ad941f|43707e99-bdd7-4b02-9974-540ed6c2b0aa",
+        "copper_edge_clearance|139200000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|c7df8431-dcf5-4ab4-b8f8-21c1cafc5246",
+        "copper_edge_clearance|141740000|88900000|00000000-0000-0000-0000-000061ad941f|810ed4ff-ffe2-4032-9af6-fb5ada3bae5b",
+        "copper_edge_clearance|144280000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|dde8619c-5a8c-40eb-9845-65e6a654222d",
+        "copper_edge_clearance|146820000|88900000|00000000-0000-0000-0000-000061ad941f|f345e52a-8e0a-425a-b438-90809dd3b799",
+        "copper_edge_clearance|149360000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|5c7d6eaf-f256-4349-8203-d2e836872231",
+        "copper_edge_clearance|151900000|88900000|00000000-0000-0000-0000-000061ad941f|0cbeb329-a88d-4a47-a5c2-a1d693de2f8c",
+        "courtyards_overlap|105826001|38011620|00000000-0000-0000-0000-000061ad5605|00000000-0000-0000-0000-000061ae60c5",
+        "silk_over_copper|106936000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|935057d5-6882-4c15-9a35-54677912ba12",
+        "silk_over_copper|133860000|35560000|3a274653-eff3-4ffe-9be8-2bfd0950af0a|2c60448a-e30f-46b2-89e1-a44f51688efc"
       ],
       "meta": {
         "filename": "board_design_settings.json",
@@ -353,7 +371,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "licheeduino.kicad_pro",
+    "filename": "boysenboard.kicad_pro",
     "version": 1
   },
   "net_settings": {
