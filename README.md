@@ -16,7 +16,7 @@ git submodule update --init
 ```
 Change to the Buildroot directory:
 ```
-cd boysenboard/hardware/buildroot
+cd boysenboard/software/buildroot
 ```
 
 ### Building the SPI Flash Image
