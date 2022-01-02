@@ -1,6 +1,6 @@
 (footprint "QFN-88" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61CE531F)
+  (tedit 61D1E21A)
   (attr through_hole)
   (fp_text reference "REF**" (at 0.2 -6.3) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
