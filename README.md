@@ -112,3 +112,10 @@ Write the image to an SD-Card:
 sudo dd if=image/sdcard.img of=/dev/sdX bs=1M status=progress && sync
 ```
 Note: the SD-Card image does not enable the USB Gadget feature.
+
+# Acknowledgements
+This project is derived from [George Hillard's busiesscard-linux](https://github.com/thirtythreeforty/businesscard-linux)
+project. 
+
+Also thanks to (Icenowy)[https://github.com/Icenowy] for their work getting U-Boot and Linux running
+on the F1C100s and F1C200s processors.
