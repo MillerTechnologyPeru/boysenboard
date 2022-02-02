@@ -117,5 +117,5 @@ Note: the SD-Card image does not enable the USB Gadget feature.
 This project is derived from [George Hillard's busiesscard-linux](https://github.com/thirtythreeforty/businesscard-linux)
 project. 
 
-Also thanks to (Icenowy)[https://github.com/Icenowy] for their work getting U-Boot and Linux running
+Also thanks to [Icenowy](https://github.com/Icenowy) for their work getting U-Boot and Linux running
 on the F1C100s and F1C200s processors.
